@@ -2,6 +2,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+import online.yourlist.app.R;
 
 public class MainActivity extends AppCompatActivity {
     private WebView webView;
